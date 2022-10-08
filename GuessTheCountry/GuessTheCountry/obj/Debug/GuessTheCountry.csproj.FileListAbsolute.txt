@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe.config
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.pdb
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.MainGame.resources
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.Properties.Resources.resources
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.exe
+C:\Users\User\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.pdb
